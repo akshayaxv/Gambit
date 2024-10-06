@@ -66,6 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
         moveSpeed: 'fast',
         snapBackSpeed: 500,
         snapSpeed: 100,
+        pieceTheme: 'img/{piece}.png' // Specify the path to the piece images
     };
 
     // Initialize the chessboard
